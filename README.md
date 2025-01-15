@@ -24,7 +24,7 @@ bar = min_height(np.array(pixel_font_small.render_text("bar")), 8, False)
 def main():
     while True:
         foo()
-	  bar()
+	bar()
 	
 ```
 
