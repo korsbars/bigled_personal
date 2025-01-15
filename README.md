@@ -7,7 +7,7 @@ Install the following packages using pip:
 ```bash
 pip installfreetype-py numpy pyserial opencv-python
 ```
-*Note:opencv-python is optional and only needed for emulating the LED matrix.*
+*Note: opencv-python is optional and only needed for emulating the LED matrix.*
 
 ## Usage
 
